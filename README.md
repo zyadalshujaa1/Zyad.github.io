@@ -25,3 +25,4 @@ factory.
 3D designs and reverse engineering (products - prototypes - covers) using
 different softwares :
 solidworks • nx inventor
+![1695822641127](https://github.com/zyadalshujaa1/Zyad.github.io/assets/91574172/80c83be8-dde6-4556-a4a5-bdbf44ed458c)
