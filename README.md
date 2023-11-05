@@ -1,4 +1,4 @@
-# Data Scientist
+# Mechatronics Engineering
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
