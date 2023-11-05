@@ -15,11 +15,11 @@ work in compressors and generators control**
 
 ## Projects
 ### Industrial Automation:
-Siemens PLC programming (worked on plc-s300,plc-s1200).
-Communications between two Siemens PLCs using (s7-com) protocol.
-Design HMI using (NI-Labview -MATLAB-Python) and control of virtual
+- Siemens PLC programming (worked on plc-s300,plc-s1200).
+- Communications between two Siemens PLCs using (s7-com) protocol.
+- Design HMI using (NI-Labview -MATLAB-Python) and control of virtual
 factory.
-Design and control of virtual production line using (Factory IO ).
+- Design and control of virtual production line using (Factory IO ).
 
 ### CAD/CAM & 3D design :
 3D designs and reverse engineering (products - prototypes - covers) using
