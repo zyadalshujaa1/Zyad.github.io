@@ -26,3 +26,6 @@ factory.
 different softwares :
 solidworks • nx inventor
 ![1695822641127](https://github.com/zyadalshujaa1/Zyad.github.io/assets/91574172/80c83be8-dde6-4556-a4a5-bdbf44ed458c)
+
+<img src="https://github.com/zyadalshujaa1/Zyad.github.io/assets/91574172/80c83be8-dde6-4556-a4a5-bdbf44ed458c" alt="Image" width= "300"
+height="200">
