@@ -31,7 +31,4 @@ different softwares :
 
 my graduation project focus on the development and implementation of a sophisticated humanoid robot equipped with custom software. By combining various technologies such as object detection, face recognition, emotion analysis, gender and age determination, voice control, natural language processing (NLP), text-to-speech (TTS), and robotics operating system (ROS), the robot aims to serve as an advanced interactive platform
 
-![1695822641127](https://github.com/zyadalshujaa1/Zyad.github.io/assets/91574172/80c83be8-dde6-4556-a4a5-bdbf44ed458c)
-
-<img src="https://github.com/zyadalshujaa1/Zyad.github.io/assets/91574172/80c83be8-dde6-4556-a4a5-bdbf44ed458c" alt="Image" width= "300"
-height="400">
+![20230829_224314](https://github.com/zyadalshujaa1/Zyad.github.io/assets/91574172/d596c81e-b8da-4ddf-9cdb-7e84206a95e8)
