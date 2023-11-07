@@ -3,7 +3,7 @@
 #### Technical Skills: Python , CAD/CAM and Reverse engineering , Industrial control programming, Robotics and ROS, MATLAB, 3D printing
 
 ## Education
-- B.Eng , Mechatronics Engineering |The University of Sana'a University  (_May 2023)								       	
+- B.Eng , Mechatronics Engineering |Sana'a University  (_May 2023)								       	
 
 ## Work Experience
 - **Project management supervisor
